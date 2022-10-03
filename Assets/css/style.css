@@ -83,7 +83,7 @@ input:success:checked+.slider:before {
 
 
      #map { 
-        height: calc(100vh - 55px); 
+        height: calc(100vh - 60px); 
         background: rgb(238, 247, 247); 
      }
 
